@@ -1,0 +1,8 @@
+Corona virus data analysis:
+Download the COVID-19 datset from following location:
+
+https://www.kaggle.com/kimjihoo/coronavirusdataset
+
+once the data set is downloaded in CSV file, I want you to provide me following information in jupyter notebook:
+
+How many data sets available and brief description of each data set.
